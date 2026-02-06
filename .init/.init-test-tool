@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/unified-meeting-platform-214154-214163/meeting_backend"
+}
